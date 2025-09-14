@@ -3,7 +3,7 @@ O reconhecimento facial é uma tecnologia que vem ganhando destaque em diversas 
 
 Este relatório busca analisar os principais desafios éticos do reconhecimento facial, evidenciando os riscos de **viés algorítmico**, os impactos sociais de erros de identificação e as medidas que podem ser adotadas para um uso responsável e seguro da tecnologia.
 
-(Reconhecimento Facial Etica.pdf) → Versão em PDF (para leitura rápida).
+([Reconhecimento Facial Etica.pdf](https://github.com/nicolebiase/relatorio-reconhecimentofacial/blob/main/Reconhecimento%20Facial%20Etica.pdf)) → Versão em PDF (para leitura rápida).
 
 ---
 
